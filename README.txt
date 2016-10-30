@@ -1,0 +1,1 @@
+I think one of the best ways to learn Scheme is to study and understand it during lessons, and afterwards practice it! 99 Problems HERE AM I!!
